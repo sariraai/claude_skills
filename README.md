@@ -78,7 +78,7 @@ We welcome contributions. Here's how you can help:
 
 ## License
 
-MIT — use however you like.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — use, share, and adapt freely. Just give credit to Sixnatures Publishing.
 
 ## Author
 
